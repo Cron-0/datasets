@@ -19,5 +19,5 @@
 
 ### 5): Подписант
 
-#### **Ссылка на датасет:** Zenodo: RIMES (Reconnaissance et Indexation de données Manuscrites et de fac similÉS) - \[https://zenodo.org/records/10812725] (Для анализа использовалась папка DVD1\_TIF, но отдельно скачать без загрузки архива невозможно)
+#### **Ссылка на датасет:** Zenodo: RIMES (Reconnaissance et Indexation de données Manuscrites et de fac similÉS) - \[https://zenodo.org/records/10812725] (Для анализа использовалась папка DVD1\_TIF, но отдельно скачать без загрузки архива невозможно + загрузка в код через использование Google Disk)
 
