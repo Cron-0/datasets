@@ -9,5 +9,5 @@
 
 ### **Цель:** Разработать модель, способную по длинному тексту статьи генерировать краткое, содержательное резюме (саммари) на русском языке
 
-#### **Ссылка на датасет:** Kaggle: Gazeta Summaries - \[https://www.kaggle.com/datasets/phoenix120/gazeta-summaries]
+#### **Ссылка на датасет:** Kaggle: Gazeta Summaries - [https://www.kaggle.com/datasets/phoenix120/gazeta-summaries]
 
